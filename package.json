@@ -1,0 +1,24 @@
+{
+  "name": "check-fn",
+  "version": "0.0.1",
+  "description": "A bool function that checks for type of a JS variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lf32/check-fn.git"
+  },
+  "keywords": [
+    "check-a-variable",
+    "front-end",
+    "back-end"
+  ],
+  "author": "Akhil Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lf32/check-fn/issues"
+  },
+  "homepage": "https://github.com/lf32/check-fn#readme"
+}
